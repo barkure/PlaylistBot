@@ -1,0 +1,6 @@
+{
+  "bot_token": "PASTE_YOUR_BOT_TOKEN_HERE",
+  "default_playlist": "播放列表",
+  "bootstrap_playlists": ["我喜欢", "播放列表"],
+  "database_path": "data/playlistbot.sqlite3"
+}
