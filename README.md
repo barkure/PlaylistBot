@@ -1,8 +1,6 @@
 # PlaylistBot
 
-一个用于个人整理音乐的 Telegram 机器人。
-
-使用 Telegram 存储音乐，使用此机器人可起到管理播放列表/歌单的作用。
+一个用于在 Telegram 中整理和管理个人音乐播放列表的机器人。
 
 - 先用 [@Music163bot](https://t.me/Music163bot) 这类机器人获取歌曲
 - 再把歌曲转发给 PlaylistBot，它会让你选择保存到哪个播放列表
