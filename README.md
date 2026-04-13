@@ -8,6 +8,8 @@
 - 再把歌曲转发给 PlaylistBot，它会让你选择保存到哪个播放列表
 - 然后 PlaylistBot 会把这首歌发送到音乐群对应的话题里，并带上歌名和歌手标签，方便搜索
 
+https://github.com/user-attachments/assets/dcf7b4f8-f57d-4563-b98b-e057638247de
+
 ## How to Use
 
 ### 配置
