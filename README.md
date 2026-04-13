@@ -54,9 +54,9 @@ TELEGRAM_BOT_TOKEN="你的_bot_token" uv run playlistbot
 - 用 `/manage` 管理歌单
 - 用 `/unbind` 解绑当前音乐群（会二次确认）
 
-### BotFather Commands
+### Commands
 
-如果你希望在 Telegram 输入 `/` 时看到命令提示，可以在 [@BotFather](https://t.me/BotFather) 里配置 `BotFather Commands`：
+如果你希望在 Telegram 输入 `/` 时看到命令提示，可以在 [@BotFather](https://t.me/BotFather) 里配置 `Commands`：
 
 ```text
 help - 查看帮助
